@@ -2,7 +2,7 @@
  Centralized and Decentrlised system , Trustless system
  Encryption Decryption 
  Public , Private Keys
- kEY sHARDING , Shamir secret
+ kEY sharding , Shamir secret
  Time Lock Puzzeles
  Verifiable state machine 
 
