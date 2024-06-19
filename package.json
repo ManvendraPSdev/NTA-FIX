@@ -10,7 +10,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@solana/web3.js": "^1.93.0",
     "crypto": "^1.0.1",
-    "shamirs-secret-sharing": "^2.0.0"
+    "shamirs-secret-sharing": "^2.0.0",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
   }
 }
