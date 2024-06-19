@@ -26,7 +26,6 @@ function decrypt(text , key , iv){
     return decrypted ;
 }
 
-
 const key = crypto.randomBytes(32); // IIT BOMBAY SECRET 223
 const iv = crypto.randomBytes(16);
 
